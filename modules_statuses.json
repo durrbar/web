@@ -1,0 +1,9 @@
+{
+    "Auth": true,
+    "Roles": true,
+    "Account": true,
+    "Base": true,
+    "Translation": true,
+    "Cart": true,
+    "User": true
+}
